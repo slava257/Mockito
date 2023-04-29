@@ -1,4 +1,4 @@
-package me.safronov.vyacheslav.mockito.mockito;
+package me.safronov.vyacheslav.mockito;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

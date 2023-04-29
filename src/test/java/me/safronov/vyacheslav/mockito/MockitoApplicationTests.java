@@ -1,4 +1,4 @@
-package me.safronov.vyacheslav.mockito.mockito;
+package me.safronov.vyacheslav.mockito;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
